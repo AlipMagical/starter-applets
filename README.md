@@ -37,7 +37,7 @@ To develop locally, insert your Gemini API key in the `.env` file.
 
 ## Map Explorer
 
-[Map Explorer](/maps/)
+[Map Explorer](/maps/AlipAbdullah)
 ([live demo](https://aistudio.google.com/app/starter-apps/map)) is a simple app
 that allows you to explore a map using Gemini and the Google Maps API. It was
 built using Lit, and the
