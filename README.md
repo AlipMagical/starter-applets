@@ -1,4 +1,4 @@
-Owner Manager Mr Alip Abdullah
+
 # AI Studio Starter Applets
 
 This repository contains the source code for AI Studio's
@@ -53,6 +53,7 @@ the `script.js` file.
 
 ### Contributors
 
+- [@AlipMagical](Domain Owner Manager)
 - [@bencobley](https://github.com/bencobley)
 - [@dmotz](https://github.com/dmotz)
 - [@grantcuster](https://github.com/grantcuster)
