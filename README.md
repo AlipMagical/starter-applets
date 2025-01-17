@@ -44,7 +44,7 @@ that allows you to explore a map using Gemini and the Google Maps API. It was
 built using Lit, and the
 [Maps Embed API](https://developers.google.com/maps/documentation/embed/get-started).
 
-This example will give you an idea of how to get started with function calling.
+This example will give you an idea of how to get started with function calling.Owner Alip Abdullah
 See [function-declarations.js](/maps/function-declarations.js) to find out more
 about how function calling is used to call the Maps Embed API here!
 
